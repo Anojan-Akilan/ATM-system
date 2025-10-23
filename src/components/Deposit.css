@@ -1,0 +1,140 @@
+.container02{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.box02{
+    width: 450px;
+    height: 650px;
+    background-color: #5c5191aa;
+     border-radius: 50px;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    /* border: 5px solid black; */
+    color:whitesmoke;
+    border: 2px solid whitesmoke;
+    box-shadow: 20px 25px 25px blue;
+}
+
+.cash{
+    font-size: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    display:flex;
+    /* align-items: center; */
+    /* flex-direction: column; */
+}
+
+.inputCash{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 55px;
+    font-size: large;
+    background-color: transparent;
+}
+
+.notes{
+    font-size: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    display:flex;
+    /* align-items: center; */
+    margin-right: 290px;
+   
+}
+
+.five{
+    font-size: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    display:flex; 
+}
+
+.inputFive{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 85px;
+    font-size: large;
+    background-color: transparent;
+
+}
+
+.one{
+    font-size: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    display:flex;
+}
+
+.inputOne{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 85px;
+    font-size: large;
+    background-color: transparent;
+}
+
+.fiveHundred{
+    font-size: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    display:flex;
+}
+
+.input05{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 105px;
+    font-size: large;
+    background-color: transparent;
+}
+
+.oneHundred{
+    font-size: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    display:flex;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input04{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 105px;
+    font-size: large;
+    background-color: transparent;
+}
+
+.depositButon{
+    border:2px solid whitesmoke;
+    width: 220px;
+    font-size:medium;
+    background-color: whitesmoke;
+    margin-left: 40px;
+    border-radius: 40px;
+}
+
+.homeButon{
+    border:2px solid whitesmoke;
+    width: 225px;
+    font-size:medium;
+    background-color: whitesmoke;
+    border-radius: 40px;
+    margin-left: 40px;
+}
+
